@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Botswana Institute for 
+Technology Research & Innovation</a>. BITRI. Maranyane House Plot 50654. Machel Drive.
 
 profile:
   align: right
   image: pic_Isaac.jpg
   image_circular: crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>01 BITRI B</p>
+    <p>Machel Drive Gaborone</p>
+    <p>Botswana - Gaborone</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
