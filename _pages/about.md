@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Botswana Institute for 
-Technology Research & Innovation</a>. BITRI. Maranyane House Plot 50654. Machel Drive.
+subtitle: <a href='#'>Botswana Institute for Technology Research & Innovation</a>. BITRI. Maranyane House Plot 50654. Machel Drive.
 
 profile:
   align: right
